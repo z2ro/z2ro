@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/impact-light.svg">
+  <img alt="Current role and engineering impact" src="./assets/impact-dark.svg" width="100%">
+</picture>
+
 <table>
 <tr>
 <td width="50%">
@@ -39,6 +45,14 @@
 </td>
 </tr>
 </table>
+
+<h3 align="center">Career Path</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/career-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/career-light.svg">
+  <img alt="Career path from infrastructure support to Senior SRE and Tech Lead" src="./assets/career-dark.svg" width="100%">
+</picture>
 
 <h3 align="center">Featured Engineering</h3>
 
@@ -69,6 +83,14 @@
 zero@platform:~$ current_focus
 reliability / kubernetes / distributed-systems / ai-infra
 ```
+
+<h3 align="center">Credentials & Languages</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/credentials-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/credentials-light.svg">
+  <img alt="Selected certifications and languages" src="./assets/credentials-dark.svg" width="100%">
+</picture>
 
 <h3 align="center">Engineering Activity</h3>
 
