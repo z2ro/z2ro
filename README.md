@@ -1,123 +1,89 @@
-# Aleksander Pinheiro
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Aleksander Pinheiro — SRE, Platform and Cloud Engineering" src="./assets/banner-dark.svg" width="100%">
+</picture>
 
-### SRE · Platform Engineer · DevOps · Cloud Engineer
+<p align="center">
+  <a href="https://z2ro.github.io"><img src="https://img.shields.io/badge/Engineering%20Notes-z2ro.github.io-0969DA?style=flat-square" alt="Engineering Notes"></a>
+  <a href="https://github.com/z2ro"><img src="https://img.shields.io/badge/GitHub-z2ro-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
 
-I design, automate and operate cloud platforms with a focus on **reliability, Kubernetes, infrastructure automation and developer experience**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+</p>
 
-My work sits at the intersection of **software engineering and infrastructure engineering** — building systems that are observable, scalable, reproducible and easier for engineering teams to operate.
+<table>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/platform-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/platform-light.svg">
+  <img alt="Platform Engineering" src="./assets/platform-dark.svg" width="100%">
+</picture>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/reliability-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/reliability-light.svg">
+  <img alt="Reliability Engineering" src="./assets/reliability-dark.svg" width="100%">
+</picture>
+</td>
+</tr>
+</table>
 
----
+<h3 align="center">Featured Engineering</h3>
 
-## Engineering Focus
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/z2ro/tech-challenge-03">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-mlops-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-mlops-light.svg">
+  <img alt="Medical MLOps Platform" src="./assets/project-mlops-dark.svg" width="100%">
+</picture>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/z2ro/mercado-fauth">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-banner-light.svg">
+  <img alt="Promo Banner Platform" src="./assets/project-banner-dark.svg" width="100%">
+</picture>
+</a>
+</td>
+</tr>
+</table>
 
-```text
-Cloud Infrastructure     AWS · Kubernetes · Docker
-Platform Engineering     GitOps · Argo CD · CI/CD · Developer Platforms
-Infrastructure as Code   Terraform · Ansible
-Reliability              Observability · SLOs · Incident Troubleshooting
-Scalability              HPA · KEDA · Capacity Planning
-Engineering              Python · Linux · APIs · Distributed Systems
+```console
+zero@platform:~$ current_focus
+reliability / kubernetes / distributed-systems / ai-infra
 ```
 
-I am particularly interested in problems involving:
+<h3 align="center">Engineering Activity</h3>
 
-* Kubernetes platform architecture
-* Cloud infrastructure and automation
-* Reliability engineering
-* Observability and troubleshooting
-* GitOps and deployment strategies
-* Platform abstractions and developer experience
-* Distributed systems
-* AI infrastructure
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z2ro&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" height="155" alt="GitHub stats">
+</p>
 
----
+<h3 align="center">Engineering Notes</h3>
 
-## Featured Engineering Projects
+<p align="center">
+  SRE · Kubernetes · AWS · Platform Engineering · Distributed Systems
+  <br>
+  <a href="https://z2ro.github.io"><strong>z2ro.github.io →</strong></a>
+</p>
 
-### Medical MLOps Platform
-
-Production-oriented ML system covering the complete lifecycle from training to serving and observability.
-
-**Engineering highlights**
-
-* AWS reference architecture with ECS Fargate, ALB, ECR and S3
-* FastAPI inference service
-* Prometheus and Grafana observability
-* Health and readiness probes
-* Airflow retraining pipeline
-* GitHub Actions CI/CD
-* Dockerized environment
-* Reproducible benchmarks and model quality gates
-* ONNX inference evaluation
-
-[View project →](https://github.com/z2ro/tech-challenge-03)
-
----
-
-### Promo Banner Engineering Platform
-
-Deterministic banner-generation platform combining constraint-based layout planning, rendering and automated quality assurance.
-
-**Engineering highlights**
-
-* FastAPI
-* Docker
-* Playwright / Chromium
-* Deterministic layout engine
-* Constraint-based planning
-* Automated visual QA
-* Optional LLM integration with structured outputs
-* Reproducible rendering pipeline
-* Extensive automated testing
-
-[View project →](https://github.com/z2ro/mercado-fauth)
-
----
-
-## What I care about
-
-I prefer engineering systems where operational behavior is explicit and measurable.
-
-That means thinking beyond whether something simply *works*:
-
-```text
-How does it fail?
-
-How do we observe it?
-
-How does it scale?
-
-How do we deploy it safely?
-
-How do we recover it?
-
-How much does it cost to operate?
-
-How easy is it for another engineer to use?
-```
-
----
-
-## Technical Writing
-
-I use my personal site to document engineering experiments, architecture decisions and technical notes.
-
-[Technical blog →](https://z2ro.github.io)
-
-Topics include **SRE, Kubernetes, AWS, Platform Engineering, cloud infrastructure and distributed systems**.
-
----
-
-## Currently exploring
-
-* Platform Engineering
-* Kubernetes internals
-* SRE and adaptive troubleshooting
-* Distributed systems
-* AI infrastructure
-* Local and cloud LLM architectures
-* Developer platforms
-
----
-
-`SRE` · `Platform Engineering` · `Kubernetes` · `AWS` · `Terraform` · `GitOps` · `Observability` · `Python`
+<p align="center">
+  <sub>Building reliable systems, reducing operational complexity, and making infrastructure easier to operate.</sub>
+</p>
