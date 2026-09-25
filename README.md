@@ -95,7 +95,21 @@ reliability / kubernetes / distributed-systems / ai-infra
 <h3 align="center">Engineering Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z2ro&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" height="155" alt="GitHub stats">
+  <a href="https://github.com/z2ro/tech-challenge-03">
+    <img src="https://img.shields.io/github/last-commit/z2ro/tech-challenge-03?style=flat-square&label=tech-challenge-03" alt="tech-challenge-03 last commit">
+  </a>
+  <a href="https://github.com/z2ro/mercado-fauth">
+    <img src="https://img.shields.io/github/last-commit/z2ro/mercado-fauth?style=flat-square&label=mercado-fauth" alt="mercado-fauth last commit">
+  </a>
+  <a href="https://github.com/z2ro/z2ro.github.io">
+    <img src="https://img.shields.io/github/last-commit/z2ro/z2ro.github.io?style=flat-square&label=z2ro.github.io" alt="z2ro.github.io last commit">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/z2ro?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Projects-View%20Repositories-0969DA?style=flat-square" alt="View repositories">
+  </a>
 </p>
 
 <h3 align="center">Engineering Notes</h3>
